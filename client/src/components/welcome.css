@@ -8,7 +8,7 @@
 }
 
 .welcome-header {
-  background-color: rgb(255, 255, 255);
+  background-image:url(../../public/bg.jpg) ;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,7 @@
 }
 
 .emphasis {
-  color: #35e400;
+  color: hsl(253, 100%, 50%);
   white-space: pre;
   font-size: xx-large;
 }

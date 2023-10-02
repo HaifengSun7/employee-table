@@ -58,7 +58,7 @@ class Employees extends Component {
               <Button type="link" onClick={()=>{this.handleEdit(record)}}>Edit</Button>
               <Popconfirm
                 title="Delete employee"
-                description="Are you sure to delete this employee?"
+                description="Do you want to delete this employee?"
                 onConfirm={() => {this.handleDeleteConfirm(record.id)}}
                 onCancel={() => {this.handleDeleteCancel()}}
                 okText="Yes"

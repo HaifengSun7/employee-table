@@ -59,7 +59,7 @@ table: employee
 | primary key |   |   |   |
 | 1  | L1  | B  | 40700  |
 
-Note that ID is designed to be unique and auto-incremented, thus it cannot be specified when adding an employee or changed when editing an employee.
+Note: ID is unique and auto-incremented.
 
 ## Demo
 

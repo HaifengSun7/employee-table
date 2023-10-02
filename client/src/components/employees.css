@@ -1,0 +1,34 @@
+.employees {
+  text-align: center;
+}
+  
+.employees-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #282c34;
+}
+
+.employees-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: pre;
+}
+
+.employees-logo {
+  padding-right: 10px;
+}
+
+.table-add {
+  width: 500px;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}

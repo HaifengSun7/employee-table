@@ -8,7 +8,7 @@
 }
 
 .welcome-header {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,8 +19,9 @@
 }
 
 .emphasis {
-  color: #8c8cf2;
+  color: #35e400;
   white-space: pre;
+  font-size: xx-large;
 }
 
 .padding {

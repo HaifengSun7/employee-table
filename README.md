@@ -14,7 +14,7 @@ npm
 ## Installation
 1. Clone git repository:
 
-    `git clone TODO`
+    `git clone https://github.com/HaifengSun7/employee-table.git`
 
 2. Install dependencies:
 

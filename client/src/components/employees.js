@@ -212,7 +212,7 @@ class Employees extends Component {
           <div className="employees-title">
           <div className="employees-logo"> <TeamOutlined /></div>
           <p>
-            Employees: {this.state.data.length}
+            Number of Employees: {this.state.data.length}
           </p>
           </div>
           <div className='table-add'>

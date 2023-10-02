@@ -57,6 +57,12 @@ table: employee
 | int | varchar | varchar | int|
 | auto increment| not null  | not null  | not null  |
 | primary key |   |   |   |
-| 1  | Lewis  | Burson  | 40700  |
+| 1  | L1  | B  | 40700  |
 
 Note that ID is designed to be unique and auto-incremented, thus it cannot be specified when adding an employee or changed when editing an employee.
+
+## Demo
+
+![Login](./resources/demo%20(3).png)
+![Basic](./resources/demo%20(1).png)
+![Edit](./resources/demo%20(2).png)

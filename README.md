@@ -1,7 +1,7 @@
 # Employee Table
 A Full Stack application with React front-end and MySQL backend. 
 
-Displays employee info and allows creation / edition / deletion of employees.
+Displays employee info and allows creation / editing / deletion of employees.
 
 ## Environment
 MySQL
